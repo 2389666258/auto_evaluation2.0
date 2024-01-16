@@ -14,6 +14,8 @@
  
  ### --- description ---
  
+ An automatic teaching evaluation program 2.0.
+
  此程序用于「教学管理服务平台」的自动评教
  
  ### --- warning ---
